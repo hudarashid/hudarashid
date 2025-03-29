@@ -16,6 +16,9 @@
 # REFER HERE TO GENERATE STATS
 https://github-stats.omsimos.com/
 
+# EMOJI
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudarashid&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 **hudarashid/hudarashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
