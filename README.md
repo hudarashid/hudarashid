@@ -8,9 +8,9 @@
 
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hudarashid&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hudarashid&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 </br>
-![GitHub Stats](https://streak-stats.demolab.com?user=hudarashid&theme=highcontrast&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=hudarashid&theme=onedark&hide_border=true)
 
 <!--
 # REFER HERE TO GENERATE STATS
