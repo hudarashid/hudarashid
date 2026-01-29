@@ -7,7 +7,7 @@
 - 🥘 My recent full stack project based on Django & Next.js -> [Masak-Masak](https://masak-masak.up.railway.app/)
 
   
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hudarashid&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 </br>
 ![GitHub Stats](https://streak-stats.demolab.com?user=hudarashid&theme=onedark&hide_border=true)
