@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Huda
 
 - 🔭 I’m currently working in Sheffield, UK as a Software Developer
-- 📚 My tech stack: Python ▪️ Django ▪️ Azure ▪️ MySQL ▪️ PostgreSQL ▪️ Streamlit ▪️ WSL ▪️ Elasticsearch ▪️ Docker ▪️ pandas ▪️ C# ▪️ .NET ▪️ JavaScript ▪️ TypeScript ▪️ Next.js
+- 📚 My tech stack: Python ▪️ Python ▪️ Django ▪️ Azure ▪️ MySQL ▪️ PostgreSQL ▪️ Streamlit ▪️ WSL ▪️ Elasticsearch ▪️ Docker ▪️ pandas ▪️ C# ▪️ .NET ▪️ React ▪️ JavaScript ▪️ TypeScript ▪️ Next.js
 - 🌱 I’m currently learning ▪️ [Golang](https://go.dev/doc/tutorial/getting-started)
 - 📺 Visit my portfolio here -> [Huda Rashid](https://www.hudarashid.com)
 - 🥘 My recent full stack project based on Django & Next.js -> [Masak-Masak](https://masak-masak.up.railway.app/)
